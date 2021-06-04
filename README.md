@@ -1,2 +1,2 @@
 # Datasets
-Datasets used in notebooks and scripts located in another repositories
+Datasets used in projects, notebooks and scripts located in another repositories
